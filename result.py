@@ -157,3 +157,4 @@ while run:
         display.update()
     # цикл срабатывает каждую 0.05 секунд
     time.delay(50)
+print("Hello world")
